@@ -13,7 +13,6 @@ header{
     text-align: center;
     height: 30px;
     margin: 10px auto 0px auto;
-    padding 20px;
 }
 
 nav{
@@ -25,7 +24,6 @@ nav{
     text-align: center;
     height: 30px;
     margin: 10px auto 0px auto;
-    padding 20px;
 }
 
 section{
@@ -37,7 +35,6 @@ section{
     text-align: center;
     height: 30px;
     margin: 10px auto 0px auto;
-    padding 15px;
     box-sizing: border-box;
     height: 265px;
     float: left;
@@ -53,7 +50,6 @@ aside{
     text-align: center;
     height: 30px;
     margin: 10px auto 0px auto;
-    padding 20px;
     float: right;
     width: 48%;
     height: 265px;
@@ -68,7 +64,6 @@ footer{
     text-align: center;
     height: 30px;
     margin: 10px auto 0px auto;
-    padding 20px;
 }
 
 article{
